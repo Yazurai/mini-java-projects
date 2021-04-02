@@ -6,4 +6,5 @@
 
 # Netbeans Ant project
 **/build/
-**/nbproject
+**/nbproject/
+**/dist/

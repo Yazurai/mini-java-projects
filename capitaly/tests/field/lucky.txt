@@ -1,0 +1,11 @@
+3
+A Greedy
+B Cautious
+C Tactical
+4
+Lucky 6000
+Service 6000
+Service 6000
+Service 6000
+
+

@@ -1,0 +1,13 @@
+2
+A Greedy
+B Cautious
+7
+Service 1000
+Property
+Property
+Property
+Property
+Property
+Lucky 1000
+
+

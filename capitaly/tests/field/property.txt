@@ -1,0 +1,6 @@
+3
+A Greedy
+B Cautious
+C Tactical
+1
+Property

@@ -1,0 +1,16 @@
+3
+Greed Greedy
+Caut Cautious
+Tact Tactical
+11
+Service 1000
+Property
+Property
+Lucky 500
+Property
+Property
+Property
+Service 1500
+Property
+Property
+Lucky 1000

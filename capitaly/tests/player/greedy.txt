@@ -1,0 +1,11 @@
+3
+A Greedy
+B Greedy
+C Greedy
+5
+Property
+Property
+Property
+Property
+Property
+

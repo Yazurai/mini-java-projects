@@ -1,3 +1,9 @@
+# IntelliJ Java
+
 **/.idea/
 *.class
 **/out/
+
+# Netbeans Ant project
+**/build/
+**/nbproject

@@ -1,0 +1,10 @@
+new cluster c 2
+new normal a 3 5
+new normal b 4 5
+pen c down
+move c 3
+move c.a 1
+right c 90
+move c.a 1
+move c 3
+show
